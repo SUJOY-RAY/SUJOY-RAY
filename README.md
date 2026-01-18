@@ -5,7 +5,6 @@
 
 Building scalable systems, clean APIs, and data-driven applications.
 
-[🌐 Portfolio](https://sray2k4.vercel.app) •
 [💼 LinkedIn](https://linkedin.com/in/sray2k4) •
 [📧 Email](mailto:sujoy2k4@gmail.com)
 
