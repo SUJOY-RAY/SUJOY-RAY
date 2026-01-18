@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sujoy Ray  
-**<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineer;AI+%26+Data" alt="Typing SVG" />**
+**<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=200&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Data" alt="Typing SVG" />**
 
 Building scalable systems, clean APIs, and data-driven applications.
 
