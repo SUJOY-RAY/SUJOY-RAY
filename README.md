@@ -1,10 +1,16 @@
-# Hi, I'm Sujoy Ray 👋  
-**Full-Stack Developer | Backend Engineer | AI & Data Analytics Enthusiast**
+<div align="center">
 
-I build **scalable backend systems**, **data-driven applications**, and **AI-powered tools** with a strong focus on  
-**clean architecture, performance, and real-world problem solving**.
+# Sujoy Ray  
+**Full-Stack Developer | Backend Engineer | AI & Data**
 
----
+Building scalable systems, clean APIs, and data-driven applications.
+
+[🌐 Portfolio](https://sray2k4.vercel.app) •
+[💼 LinkedIn](https://linkedin.com/in/sray2k4) •
+[📧 Email](mailto:sujoy2k4@gmail.com)
+
+</div>
+
 
 ## 🧠 What I Do
 
