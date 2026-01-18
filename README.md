@@ -25,12 +25,7 @@ Building scalable systems, clean APIs, and data-driven applications.
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ---
 
 ### ⚙️ Backend & APIs
