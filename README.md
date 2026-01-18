@@ -16,7 +16,7 @@ Building scalable systems, clean APIs, and data-driven applications.
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-[![Languages](https://skillicons.dev/icons?i=java,cs,py,js,ts,cpp,c,sql&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cs,py,js,py,cpp,c,sql&theme=light)](https://skillicons.dev)
 
 ---
 
