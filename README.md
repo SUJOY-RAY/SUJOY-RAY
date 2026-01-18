@@ -2,6 +2,7 @@
 
 # Sujoy Ray  
 **<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=200&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Data" alt="Typing SVG" />**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SUJOY-RAY&theme=tokyonight&hide_border=true)
 
 Building scalable systems, clean APIs, and data-driven applications.
 
