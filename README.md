@@ -13,35 +13,35 @@ Building scalable systems, clean APIs, and data-driven applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 [![Languages](https://skillicons.dev/icons?i=java,cs,py,js,cpp,c,sql&theme=light)](https://skillicons.dev)
 
 ---
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 [![Backend](https://skillicons.dev/icons?i=dotnet,spring,django,nextjs&theme=light)](https://skillicons.dev)
 
 **Focus:** Microservices, Clean Architecture, REST APIs, MVC, DI, SOLID
 
 ---
 
-### 🔁 Realtime, Async & DevOps
+### Realtime, Async & DevOps
 [![DevOps](https://skillicons.dev/icons?i=docker,jenkins,git,githubactions,redis,nginx,linux&theme=light)](https://skillicons.dev)
 
 **Focus:** WebSockets, SignalR, Reactive Streams, CI/CD, Async Pipelines
 
 ---
 
-### 🎨 Frontend & Mobile
+### Frontend & Mobile
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,flutter,androidstudio,tailwind,bootstrap&theme=light)](https://skillicons.dev)
 
 **Focus:** SSR, Cross-platform apps, Component-driven UI
 
 ---
 
-### 🤖 AI, ML & Data
+### AI, ML & Data
 [![AI](https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,selenium,postgres,mongodb&theme=light)](https://skillicons.dev)
 
 **Focus:** NLP, ML Pipelines, Data Analytics, Automation
