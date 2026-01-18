@@ -11,52 +11,39 @@ Building scalable systems, clean APIs, and data-driven applications.
 
 </div>
 
-
-## 🧠 What I Do
-
-- Design **RESTful & real-time APIs** with clean, maintainable architectures  
-- Build **microservices** using ASP.NET Core & Spring Boot  
-- Develop **RBAC-based multi-tenant systems**  
-- Create **AI/NLP pipelines** for analytics, automation & research  
-- Translate **data → insights** using ML and analytics workflows  
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cs,py,js,ts,cpp,c,sql&theme=light)](https://skillicons.dev)
+
 ---
 
-### ⚙️ Backend & APIs
-- **ASP.NET Core / MVC** (Clean Architecture, DI, Microservices)
-- **Spring Boot / WebFlux** (Reactive, Async Pipelines)
-- **FastAPI** (High-performance Python APIs)
-- **Express.js**
+### ⚙️ Backend & Frameworks
+[![Backend](https://skillicons.dev/icons?i=dotnet,spring,fastapi,express,nodejs,hibernate,maven,gradle&theme=light)](https://skillicons.dev)
+
+**Focus:** Microservices, Clean Architecture, REST APIs, MVC, DI, SOLID
+
+---
+
+### 🔁 Realtime, Async & DevOps
+[![DevOps](https://skillicons.dev/icons?i=websocket,docker,jenkins,git,githubactions,redis,nginx,linux&theme=light)](https://skillicons.dev)
+
+**Focus:** WebSockets, SignalR, Reactive Streams, CI/CD, Async Pipelines
 
 ---
 
 ### 🎨 Frontend & Mobile
-- **React, Next.js (SSR)**
-- **Flutter, React Native**
-- **Android (Kotlin / Java)**
-- Tailwind, Bootstrap
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,flutter,androidstudio,tailwind,bootstrap&theme=light)](https://skillicons.dev)
 
----
-
-### 🔁 Realtime, DevOps & Tooling
-- WebSockets, SignalR, Socket.io  
-- Git, Jenkins, Postman, Swagger  
-- Selenium, BeautifulSoup  
-- Apache Airflow  
+**Focus:** SSR, Cross-platform apps, Component-driven UI
 
 ---
 
 ### 🤖 AI, ML & Data
-- Pandas, NumPy, scikit-learn  
-- PyTorch  
-- NLP: NLTK, VADER  
-- Tableau  
-- Synthetic Dataset Generation (GPT-based)  
+[![AI](https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,selenium,postgres,mongodb&theme=light)](https://skillicons.dev)
+
+**Focus:** NLP, ML Pipelines, Data Analytics, Automation
 
 ---
