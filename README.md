@@ -24,7 +24,7 @@ Building scalable systems, clean APIs, and data-driven applications.
 ---
 
 ### Realtime, Async & DevOps
-[![DevOps](https://skillicons.dev/icons?i=docker,jenkins,git,githubactions,redis,nginx,linux&theme=light)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,jenkins,git,githubactions,redis,linux&theme=light)](https://skillicons.dev)
 
 **Focus:** WebSockets, SignalR, Reactive Streams, CI/CD, Async Pipelines
 
