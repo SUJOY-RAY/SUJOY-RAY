@@ -17,7 +17,7 @@ Building scalable systems, clean APIs, and data-driven applications.
 ---
 
 ### Backend & Frameworks
-[![Backend](https://skillicons.dev/icons?i=dotnet,spring,django,nextjs&theme=light)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=dotnet,spring,django,nextjs,express&theme=light)](https://skillicons.dev)
 
 **Focus:** Microservices, Clean Architecture, REST APIs, MVC, DI, SOLID
 
@@ -38,7 +38,7 @@ Building scalable systems, clean APIs, and data-driven applications.
 ---
 
 ### AI, ML & Data
-[![AI](https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,selenium,postgres,mongodb&theme=light)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,selenium,postgres,sqlite,mysql&theme=light)](https://skillicons.dev)
 
 **Focus:** NLP, ML Pipelines, Data Analytics, Automation
 
