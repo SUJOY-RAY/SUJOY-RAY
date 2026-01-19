@@ -17,7 +17,7 @@ Building scalable systems, clean APIs, and data-driven applications.
 ---
 
 ### Backend & Frameworks
-[![Backend](https://skillicons.dev/icons?i=dotnet,spring,django,nextjs,express&theme=light)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,dotnet,django,nextjs,express&theme=light)](https://skillicons.dev)
 
 **Focus:** Microservices, Clean Architecture, REST APIs, MVC, DI, SOLID
 
