@@ -239,6 +239,6 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 ### 💡 Philosophy
 
-> **"Build reusable frameworks, scalable systems, and software that solves real engineering problems."**
+> **"Code that serves. Data that empowers. Knowledge that matters."**
 
 </div>
