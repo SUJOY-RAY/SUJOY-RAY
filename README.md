@@ -263,7 +263,5 @@ Building scalable backend systems, distributed applications, AI-powered software
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> Philosophy
 
 > **"Code that serves. Systems that scale. Data that empowers."**
-
-<img src="https://komarev.com/ghpvc/?username=SUJOY-RAY&style=for-the-badge&color=blue" />
-
+> 
 </div>
