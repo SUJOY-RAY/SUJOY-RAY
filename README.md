@@ -53,7 +53,7 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 <p align="center">
 
-[![Languages](https://skillicons.dev/icons?i=java,cs,py,ts,js,kotlin,swift,cpp,c,rust,bash&perline=11)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cs,py,ts,js,kotlin,swift,cpp,c,rust&perline=11)](https://skillicons.dev)
 
 </p>
 
