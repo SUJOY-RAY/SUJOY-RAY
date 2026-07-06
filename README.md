@@ -4,7 +4,7 @@
 
 ### Backend Engineer • Full-Stack Developer • AI & Distributed Systems Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+ASP.NET+Core;Backend+Engineering+%7C+Distributed+Systems;Microservices+%7C+REST+APIs+%7C+Cloud+Native;AI+%7C+Machine+Learning+%7C+Developer+Tooling;Building+Scalable+Software+%26+Frameworks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+ASP.NET+Core;Backend+Engineering+%7C+Distributed+Systems;Microservices+%7C+REST+APIs+%7C+Cloud+Native;AI+%7C+Machine+Learning+%7C+Developer+Tooling;Building+Scalable+Software+%26+Frameworks" alt="Typing SVG"/>
 
 <p>
 Building scalable backend systems, distributed applications, AI-powered software, and developer tooling with a focus on clean architecture, performance, and maintainability.
@@ -14,25 +14,29 @@ Building scalable backend systems, distributed applications, AI-powered software
 <a href="https://github.com/SUJOY-RAY">
 <img src="https://img.shields.io/badge/Repositories-120+-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://github.com/SUJOY-RAY">
 <img src="https://img.shields.io/badge/Projects-100+-00C853?style=for-the-badge"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Developer-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-F57C00?style=for-the-badge"/>
+
 </p>
 
 <p>
 
 <a href="mailto:sujoy2k4@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sray2k4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://sray2k4.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<a href="https://github.com/SUJOY-RAY">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -41,9 +45,11 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 ---
 
-# [https://cdn-icons-png.flaticon.com/512/18510/18510682.png] Engineering Stack
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28"/> Technology Stack
 
-## 💻 Languages
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Languages
 
 <p align="center">
 
@@ -67,7 +73,7 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 ---
 
-## ⚙️ Backend & Frameworks
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="24"/> Backend & Frameworks
 
 <p align="center">
 
@@ -84,21 +90,22 @@ Building scalable backend systems, distributed applications, AI-powered software
 - ASP.NET Core
 - ASP.NET MVC
 - FastAPI
-- Express.js
 - Django
-- Next.js API Routes
+- Express.js
+- Node.js
+- Next.js
 - REST APIs
 - GraphQL
 - Microservices
 - Dependency Injection
 - Repository Pattern
-- Domain-Driven Design
+- Domain-Driven Design (DDD)
 - Clean Architecture
 - SOLID Principles
 
 ---
 
-## 🗄️ Databases & Persistence
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> Databases & Persistence
 
 <p align="center">
 
@@ -116,14 +123,14 @@ Building scalable backend systems, distributed applications, AI-powered software
 - Hibernate
 - JPA
 - Entity Framework
-- Database Design
 - Query Optimization
-- Schema Versioning
+- Database Design
 - Data Modeling
+- Schema Versioning
 
 ---
 
-## 🌐 Distributed Systems & DevOps
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> Distributed Systems & DevOps
 
 <p align="center">
 
@@ -138,14 +145,14 @@ Building scalable backend systems, distributed applications, AI-powered software
 - SignalR
 - Socket.IO
 - Reactive Programming
-- Async Processing
+- Asynchronous Processing
+- Event-Driven Architecture
 - Load Balancing
-- RAFT Consensus
+- RAFT Consensus Algorithm
 - Docker
 - Kubernetes
 - Jenkins
-- CI/CD
-- Git & GitHub
+- GitHub Actions
 - Linux
 - Nginx
 - Swagger / OpenAPI
@@ -153,7 +160,7 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 ---
 
-## 🎨 Frontend & Mobile
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> Frontend & Mobile
 
 <p align="center">
 
@@ -172,12 +179,12 @@ Building scalable backend systems, distributed applications, AI-powered software
 - CSS3
 - Tailwind CSS
 - Bootstrap
-- Server Side Rendering
+- Server-Side Rendering (SSR)
 - Responsive UI Development
 
 ---
 
-## 🤖 AI • Machine Learning • Data Engineering
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24"/> AI • Machine Learning • Data Engineering
 
 <p align="center">
 
@@ -189,7 +196,7 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 - Machine Learning
 - Deep Learning
-- Natural Language Processing
+- Natural Language Processing (NLP)
 - Computer Vision
 - Data Analytics
 - GPT Applications
@@ -204,41 +211,59 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 ---
 
-# 🏗️ Engineering Interests
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/> Areas of Expertise
 
 - Backend Engineering
 - Distributed Systems
 - Platform Engineering
-- Cloud Native Applications
+- Cloud-Native Applications
 - Software Architecture
 - System Design
 - Developer Tooling
 - Performance Engineering
 - Artificial Intelligence
 - Machine Learning
-- Open Source
+- Open Source Development
 
 ---
 
-# 📌 Featured Work
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> Featured Projects
 
-- 🚀 Enterprise Backend Systems with Spring Boot & ASP.NET Core
-- ⚡ Generic Repository & Service Framework
-- 🗄️ Database Schema Versioning Framework
-- 🧭 Repository Architecture Mapper
-- 🔐 OAuth2 / JWT Authentication Systems
-- 🌐 Distributed Systems (Kafka, Load Balancer, RAFT)
-- 📚 University Learning Management Platform
-- 💻 Online Coding Platform
-- 🤖 AI & NLP Applications
-- 📊 Data Analytics & Automation Pipelines
+| Project | Description |
+|---------|-------------|
+| 🗄️ Spring Database Version Control | Tracks entity schema evolution with automatic versioning and relationship visualization. |
+| 🧭 Repository Mapper | Static analysis tool that maps services, repositories, entities, and project dependencies. |
+| ⚡ Java Async Framework | Async execution library inspired by C# async/await for Spring & Quarkus. |
+| 🌐 University Education Platform | Enterprise Learning Management System with SSR, JWT, RBAC, coding environment, and analytics. |
+| 🔐 OAuth2 Authentication Framework | Secure authentication system with JWT, OAuth2, RBAC, refresh tokens, and Spring Security. |
+| ⚙️ Generic Service Repository Framework | Reusable backend framework implementing Generic Repository, DI, SOLID, and Clean Architecture. |
+| 🌍 Distributed Systems | Java Load Balancer, Kafka Messaging Framework, and RAFT Consensus implementation. |
+| 💻 Coding Platform | Reactive online coding platform with asynchronous code execution and scalable evaluation engine. |
+| 🤖 AI & NLP Applications | Sentiment Analysis, Disease Prediction, Dataset Generation, GPT-powered NLP, and Computer Vision projects. |
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Engineering Principles
+
+- Clean Architecture
+- SOLID Principles
+- Domain-Driven Design
+- Design Patterns
+- Event-Driven Architecture
+- RESTful API Design
+- Reactive Programming
+- Scalable Distributed Systems
+- Testable & Maintainable Code
+- Continuous Integration & Deployment
 
 ---
 
 <div align="center">
 
-### 💡 Philosophy
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> Philosophy
 
-> **"Code that serves. Data that empowers. Knowledge that matters."**
+> **"Code that serves. Systems that scale. Data that empowers."**
+
+<img src="https://komarev.com/ghpvc/?username=SUJOY-RAY&style=for-the-badge&color=blue" />
 
 </div>
