@@ -231,7 +231,7 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 | Project | Description |
 |---------|-------------|
-| 🗄️ Spring Database Version Control | Tracks entity schema evolution with automatic versioning and relationship visualization. |
+| 🗄️ Repository Mapper | Tracks project evolution with automatic versioning and relationship visualization, mapping and saving all the symbols in a project including their location and metadata. |
 | 🧭 Repository Mapper | Static analysis tool that maps services, repositories, entities, and project dependencies. |
 | ⚡ Java Async Framework | Async execution library inspired by C# async/await for Spring & Quarkus. |
 | 🌐 University Education Platform | Enterprise Learning Management System with SSR, JWT, RBAC, coding environment, and analytics. |
