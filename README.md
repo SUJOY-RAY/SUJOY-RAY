@@ -41,7 +41,7 @@ Building scalable backend systems, distributed applications, AI-powered software
 
 ---
 
-# 🚀 Engineering Stack
+# [https://cdn-icons-png.flaticon.com/512/18510/18510682.png] Engineering Stack
 
 ## 💻 Languages
 
